@@ -14,7 +14,7 @@ Application is build in top of spring boot framework and use H2 in memory databa
     b) Get all posted cards
 
 2. How to run application locally
-    a) Application code is being commit to github under the main [branch] (https://github.com/priyanka-sharma15/credit-card-application/edit/gh-pages/index.md) .
+    a) Application code is being commit to github under the main [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
     b) Checkout the code locally on your machine using git clone command.
     c) Once code is being clone in local folder use maven to compile the code
         locally using command
@@ -22,28 +22,6 @@ Application is build in top of spring boot framework and use H2 in memory databa
     d) Once the code compile sucesfully on local nachine run the bellow command
        to run spring bootserver.
         > mvn spring-boot:run
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
