@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://github.com/priyanka-sharma15/credit-card-application/blob/gh-pages/images/home.PNG" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://raw.githubusercontent.com/priyanka-sharma15/credit-card-application/gh-pages/images/home.PNG" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
 
