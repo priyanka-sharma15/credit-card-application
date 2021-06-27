@@ -5,13 +5,11 @@ You can use the [editor on GitHub](https://github.com/priyanka-sharma15/credit-c
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Credit card application details
-
 ### Set up
 Application is build in top of spring boot framework and use H2 in memory database to store records.
 For code details see [GitHub branch details](https://github.com/priyanka-sharma15/credit-card-application/tree/main).
 
-
-```markdown
+```
 1. Application having bellow end point. 
     * Post a new card.
     * Get all posted cards.
@@ -24,6 +22,7 @@ For code details see [GitHub branch details](https://github.com/priyanka-sharma1
     * Once the code compile sucesfully on local nachine run the bellow command
        to run spring bootserver.
         > mvn spring-boot:run
+```
 
 ### Jekyll Themes
 
