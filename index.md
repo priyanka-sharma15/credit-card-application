@@ -10,8 +10,8 @@ Application is build in top of spring boot framework and use H2 in memory databa
 
 ```markdown
 1. Application having bellow end point. 
-    a) Post a new card. [Image](images/home.PNG)
-    b) Get a all posted cards. [Image](images/home.PNG)
+    a) Post a new card.  <img src="images/home.PNG">[Image]</img>
+    b) Get a all posted cards. <img src="images/home.PNG">[Image]</img>/>
 
 
 ### Markdown
