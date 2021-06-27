@@ -13,7 +13,7 @@ For code details see [GitHub branch details](https://github.com/priyanka-sharma1
 
 ```markdown
 1. Application having bellow end point. 
-    * Post a new card. ![Home](https://github.com/priyanka-sharma15/credit-card-application/blob/gh-pages/images/home.PNG)
+    * Post a new card.
     * Get all posted cards
 
 2. How to run application locally
