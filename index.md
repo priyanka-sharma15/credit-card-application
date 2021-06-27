@@ -14,7 +14,7 @@ Application is build in top of spring boot framework and use H2 in memory databa
     b) Get all posted cards
 
 2. How to run application locally
-    a) Application code is being commit to github under the main.
+    a) Application code is being commit to github under the main [branch] (https://github.com/priyanka-sharma15/credit-card-application/edit/gh-pages/index.md) .
     b) Checkout the code locally on your machine using git clone command.
     c) Once code is being clone in local folder use maven to compile the code
         locally using command
