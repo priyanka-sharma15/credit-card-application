@@ -10,7 +10,7 @@ Application is build in top of spring boot framework and use H2 in memory databa
 
 ```markdown
 1. Application having bellow end point. 
-    a) Post a new card. [image] (https://github.com/priyanka-sharma15/credit-card-application/blob/gh-pages/images/home.PNG)
+    a) Post a new card.
     b) Get all posted cards
 
 2. How to run application locally
