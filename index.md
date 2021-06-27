@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
+</p>
+
 ## Welcome to credit card application documentation
 
 You can use the [editor on GitHub](https://github.com/priyanka-sharma15/credit-card-application/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -6,9 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Credit card application details
 ### Set up
-Application is build in top of spring boot framework and use H2 in memory database to store records.
+Application is build in top of spring boot framework and use H2 in memory database.
 For code details see [GitHub branch details](https://github.com/priyanka-sharma15/credit-card-application/tree/main).
-
 ```
 1. Application having bellow end point. 
     * [ ] Post a new card.
