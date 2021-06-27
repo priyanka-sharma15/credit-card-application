@@ -13,16 +13,16 @@ For code details see [GitHub branch details](https://github.com/priyanka-sharma1
 
 ```markdown
 1. Application having bellow end point. 
-    a) Post a new card.
-    b) Get all posted cards
+    * Post a new card.
+    * Get all posted cards
 
 2. How to run application locally
-    a) Application code is being commit to github under the main branch.
-    b) Checkout the code locally on your machine using git clone command.
-    c) Once code is being clone in local folder use maven to compile the code
+    * Application code is being commit to github under the main branch.
+    * Checkout the code locally on your machine using git clone command.
+    * Once code is being clone in local folder use maven to compile the code
         locally using command
         > mvn clean install
-    d) Once the code compile sucesfully on local nachine run the bellow command
+    * Once the code compile sucesfully on local nachine run the bellow command
        to run spring bootserver.
         > mvn spring-boot:run
 
