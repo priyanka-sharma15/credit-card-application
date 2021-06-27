@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 Application is build in top of spring boot framework and use H2 in memory database to store records.
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For code details see [GitHub branch details](https://github.com/priyanka-sharma15/credit-card-application/tree/main).
 
 
 ```markdown
