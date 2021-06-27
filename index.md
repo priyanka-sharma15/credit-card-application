@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Credit card application details
 
-### Markdown
+### Set up
 Application is build in top of spring boot framework and use H2 in memory database to store records.
 For code details see [GitHub branch details](https://github.com/priyanka-sharma15/credit-card-application/tree/main).
 
@@ -24,7 +24,6 @@ For code details see [GitHub branch details](https://github.com/priyanka-sharma1
     * Once the code compile sucesfully on local nachine run the bellow command
        to run spring bootserver.
         > mvn spring-boot:run
-
 
 ### Jekyll Themes
 
