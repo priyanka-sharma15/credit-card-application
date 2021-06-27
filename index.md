@@ -10,10 +10,20 @@ Application is build in top of spring boot framework and use H2 in memory databa
 
 ```markdown
 1. Application having bellow end point. 
-    a) Post a new card.  ![images/home.PNG](images/home.PNG.PNG)
+    a) Post a new card. [Image link](https://github.com/priyanka-sharma15/credit-card-application/blob/gh-pages/images/home.PNG)
+    b) Get all posted cards.
 
-    b) Get a all posted cards. ![images/home.PNG](images/home.PNG.PNG)
+2) How to run application locally
 
+    a) Application code is being commit to github under the main [branch GitHub](https://github.com/priyanka-sharma15/credit-card-application/tree/main)
+
+    b) Checkout the code locally on your machine using git clone command.
+
+    c) Once code is being clone in local folder use maven to compile the code locally using command
+        >mvn clean install
+    
+    d) Once the code compile sucesfully on local nachine run the bellow command to run spring bootserver.
+        >mvn spring-boot:run
 
 ### Markdown
 
