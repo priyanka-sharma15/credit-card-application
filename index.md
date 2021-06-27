@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Credit card application details
 
 Application is build in top of spring boot framework and use H2 in memory database to store records.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ```markdown
 1. Application having bellow end point. 
@@ -14,7 +16,7 @@ Application is build in top of spring boot framework and use H2 in memory databa
     b) Get all posted cards
 
 2. How to run application locally
-    a) Application code is being commit to github under the main [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    a) Application code is being commit to github under the main branch.
     b) Checkout the code locally on your machine using git clone command.
     c) Once code is being clone in local folder use maven to compile the code
         locally using command
@@ -23,7 +25,6 @@ Application is build in top of spring boot framework and use H2 in memory databa
        to run spring bootserver.
         > mvn spring-boot:run
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
