@@ -14,8 +14,7 @@ For code details see [GitHub branch details](https://github.com/priyanka-sharma1
 ```markdown
 1. Application having bellow end point. 
     * Post a new card.
-    * Get all posted cards
-
+    * Get all posted cards.
 2. How to run application locally
     * Application code is being commit to github under the main branch.
     * Checkout the code locally on your machine using git clone command.
